@@ -1,5 +1,5 @@
 {
-  "name": "ngUploader",
+  "name": "ngUploader3000",
   "version": "1.0.2",
   "description": "based in https://github.com/twilson63/ngUpload",
   "main": "dist/ng-uploader.js",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ealipio/ngUploader.git"
+    "url": "git+https://github.com/ealipio/ngUploader3000.git"
   },
   "keywords": [],
   "author": "Eisson Alipio <eisson.alipio@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ealipio/ngUploader/issues"
+    "url": "https://github.com/ealipio/ngUploader3000/issues"
   },
-  "homepage": "https://github.com/ealipio/ngUploader#readme"
+  "homepage": "https://github.com/ealipio/ngUploader3000#readme"
 }
