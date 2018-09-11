@@ -1,0 +1,20 @@
+{
+  "name": "ngUploader",
+  "version": "1.0.0",
+  "description": "based in https://github.com/twilson63/ngUpload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ealipio/ngUploader.git"
+  },
+  "keywords": [],
+  "author": "Eisson Alipio <eisson.alipio@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ealipio/ngUploader/issues"
+  },
+  "homepage": "https://github.com/ealipio/ngUploader#readme"
+}
