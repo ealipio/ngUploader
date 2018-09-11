@@ -1,5 +1,5 @@
 {
-  "name": "ngUploader3000",
+  "name": "ng-uploader3000",
   "version": "1.0.3",
   "description": "based in https://github.com/twilson63/ngUpload",
   "main": "dist/ng-uploader.js",
