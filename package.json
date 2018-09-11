@@ -1,6 +1,6 @@
 {
   "name": "ngUploader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "based in https://github.com/twilson63/ngUpload",
   "main": "dist/ng-uploader.js",
   "scripts": {
